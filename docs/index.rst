@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    docker
+   datenbankentwurf
 
 Time recordings
 ~~~~~~~~~~~~~~~
