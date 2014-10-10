@@ -13,4 +13,13 @@ Contents:
 
    docker
 
+Time recordings
+~~~~~~~~~~~~~~~
+
+.. toctree::
+   :maxdepth: 2
+
+   timerecording_klepp
+   timerecording_willinger
+
 .. include:: quellen.rst
