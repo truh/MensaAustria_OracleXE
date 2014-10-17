@@ -9,10 +9,11 @@ Mensa Austria - OracleXE
 .. toctree::
    :maxdepth: 2
 
+   datenbankentwurf
    docker
    standalone
    konfiguration
-   datenbankentwurf
+   abfragen
 
 Time recordings
 ~~~~~~~~~~~~~~~
