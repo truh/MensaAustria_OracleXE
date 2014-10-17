@@ -50,7 +50,8 @@ Docker Container mit Port-Weiterleitung starten:
 
 .. code:: bash
 
-    docker pull wnameless/oracle-xe-11gdocker run -d -p 49160:22 -p 49161:1521 wnameless/oracle-xe-11g
+    docker pull wnameless/oracle-xe-11g
+    docker run -d -p 49160:22 -p 49161:1521 wnameless/oracle-xe-11g
 
 Datenbankverbindung mit folgenden Einstellungen:
 
